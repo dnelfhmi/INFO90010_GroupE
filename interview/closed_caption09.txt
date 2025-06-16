@@ -1,0 +1,93 @@
+16:00:24 Thanks again for joining. Just to recap this is part of our research project at UniMelb where we’re looking at how international students adjust socially, academically, and practically. We’re hoping to identify what kind of digital solutions might actually be helpful. The goal today is just to hear about your own experience and get your thoughts on a few things. Sound good?
+
+16:00:45 Yeah, sure.
+
+16:00:47 Awesome. Let’s start with a quick intro. Can you tell me what you’re studying, where you’re from, and how long you’ve been here?
+
+16:00:54 I’m in the Master of Computer Science. Just started my second year. I’m from Sri Lanka. Moved here in mid 2023.
+
+16:01:04 Nice. Where are you living now?
+
+16:01:08 I’m staying in an apartment in Southbank. I live by myself, which was a bit of a jump financially, but I value having my own space. I used to live in a shared unit for the first semester, but the environment wasn’t great for focus. So I made the switch.
+
+16:01:22 Got it. So thinking back to when you first arrived what was the process of finding a place like?
+
+16:01:29 I spent hours scrolling through listings, honestly. It was kind of overwhelming at first. Every listing looked similar, and you don’t really know the “feel” of the suburb until you actually live there. I relied a lot on random forum threads and some YouTube vlogs, but there wasn’t anything central or official I trusted.
+
+16:01:49 Did you look at different areas?
+
+16:01:51 Yeah, I looked at Carlton, Docklands, even a bit further out like Flemington. I wanted something close to campus but not student housing I like quiet. Eventually I settled on Southbank because of the tram line and the fact that it’s pretty calm after hours.
+
+16:02:07 If there had been a tool where you could compare those suburbs like showing rental prices, how long it takes to get to campus, whether there’s a lot of student housing, or cultural amenities would that have helped?
+
+16:02:20 It would’ve made a huge difference, yeah. Especially something that doesn’t just show you listings, but actually helps you understand the trade offs. Like yeah, maybe Carlton is closer, but Southbank has a better balance if you value a quieter lifestyle. Also would’ve been nice to see what students from my background tend to choose not for segregation, but just familiarity.
+
+16:02:45 I hear that. Switching to studying how do you typically approach your coursework? Do you study with others, or prefer working solo?
+
+16:02:52 Solo, mostly. I’ve just always been that way. I have a few people I talk to when I’m stuck, but I don’t really do study groups. I find I lose focus when there’s too much going on.
+
+16:03:05 Have you ever felt like you wanted to find someone to study with, but didn’t know how?
+
+16:03:11 Maybe once or twice. Usually when the subject’s really tough or confusing. But even then, I’d probably look for a tutor or a forum before I’d look for a peer.
+
+16:03:22 We’re testing out an idea where a platform could help students discover others doing the same subject and maybe even filter by preferred study style like quiet, discussion based, virtual, etc. Would you ever use something like that?
+
+16:03:36 Possibly. If it wasn’t too intrusive. Like I’d want to choose when I’m available or interested. I wouldn’t want it to constantly nudge me to meet people just something that’s there if I want it. And it should work offline too. Not just another app.
+
+16:03:56 Makes sense. Do you have preferred spots to study?
+
+16:03:59 I mostly stay home. Sometimes I go to the old engineering building, depending on what mood I’m in. I don’t do cafes unless it’s a casual reading day. Noise isn’t great for coding.
+
+16:04:13 What if you could see which study spaces were full or quiet in real time?
+
+16:04:18 That would be helpful. During exams it’s a mess. You waste so much time walking around trying to find a spot. Even just seeing which rooms are booked or which floors are open would be helpful.
+
+16:04:34 Let’s talk course planning. How do you pick which subjects to do each semester?
+
+16:04:38 I use a spreadsheet. I map out the full course, check prerequisites, and try to balance theory heavy units with lighter ones. I also factor in job market stuff like what skills are trending.
+
+16:04:52 How do you figure out what subjects align with career outcomes?
+
+16:04:57 It’s honestly a mix of instinct, Reddit, and LinkedIn stalking. I look at job ads and try to reverse engineer what kind of knowledge they expect. But I’d definitely benefit from something more structured.
+
+16:05:13 What if there was a planner that included subject reviews, estimated workloads, and real career pathways from past students?
+
+16:05:22 That would save me a lot of time. Especially if it’s based on actual grad outcomes. I’d want to know things like: did people who took this subject get internships? Is it practical or all theory? That kind of stuff.
+
+16:05:38 When it comes to student platforms or tools what makes you stick with one?
+
+16:05:42 No fluff. I want function over form. If something loads fast, gives me exactly what I need without distractions I’ll use it.
+
+16:05:53 And what turns you away?
+
+16:05:55 Messy design. Ads. Or apps that try to be too social. I’m here to study, not network 24/7.
+
+16:06:05 If we built something aimed at international students, what’s one thing we should be careful about?
+
+16:06:10 Don’t stereotype us. Not everyone wants welcome parties and cultural fairs. Some of us just need help with timetables or housing. The key is flexibility give options, don’t assume we’re all extroverts.
+
+16:06:24 Well said. If you could design one feature or tool for yourself, what would it be?
+
+16:06:30 A central dashboard that pulls everything in. Assignments, events I actually care about, timetable, room bookings, maybe even job boards. Just something that saves me time from jumping between ten tabs.
+
+16:06:45 Like a control centre for your uni life.
+
+16:06:48 Exactly. Not pretty, just effective.
+
+16:06:52 Before we wrap up has there been any tech tool you’ve used recently that impressed you?
+
+16:06:59 Hmm… I like Notion for personal planning. And I use GitHub Copilot for coding. Outside of that, nothing really academic focused that stands out. Maybe that’s the problem?
+
+16:07:13 That’s a fair insight.
+
+16:07:15 Oh, and one small thing like an AI that explains subject outlines in simple terms I use that for suse. Some of the handbooks are written like policy documents.
+
+16:07:27 That’s a brilliant idea. Like a subject explainer.
+
+16:07:30 Yeah, just tell me in plain English what I’ll be doing and if it’s worth my time.
+
+16:07:36 That’s all from my side. Thanks so much this has been really insightful.
+
+16:07:42 Glad it helped. You guys are building something for real students, which is rare.
+
+16:07:47 Appreciate that. Take care and good luck with the semester.

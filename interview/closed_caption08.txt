@@ -1,0 +1,91 @@
+14:00:22 I’ll just go ahead and start the recording now.
+14:00:27 Okay, recording started.
+
+14:00:33 Thanks again for making time for this. As a quick reminder, this interview is part of a research project we’re doing at UniMelb. We’re trying to understand what it’s really like for international students adjusting to life here, both socially and academically. The goal is to explore if and how tech can actually help support that journey, not just at the start but throughout the degree. So we’re really just here to hear your story.
+
+14:00:57 Sure, sounds interesting.
+
+14:01:01 Great. So to warm up, can you tell me a bit about yourself? Just where you’re from, what course you’re doing, and how long you’ve been in Melbourne?
+
+14:01:10 Yeah. I’m originally from Indonesia, from Jakarta. I came to Melbourne last February, so about a year and a few months now. I’m doing a Master of Management at UniMelb, just started my third semester this week actually.
+
+14:01:29 Nice, welcome back to semester mode! Where are you currently staying?
+
+14:01:34 I’m living in Carlton, just a short tram ride to campus. It’s a small apartment I share with a friend from back home. It’s not fancy, but it’s enough. We split the rent and cook together to save money.
+
+14:01:50 Love it. So, going back to when you first arrived, what was the experience like looking for a place to live?
+
+14:01:57 Oh man! it was a headache. I was still overseas at the time, so my friend had to go to inspections alone. A lot of places wouldn’t even consider us because we were international and didn’t have rental history. And the prices… they were rising by the week.
+
+14:02:15 Oof. Did you look at multiple suburbs or just focus on one?
+
+14:02:20 We tried to be open. Looked at Brunswick, North Melbourne, even out in Preston. But the further we went, the more it felt like a gamble. We didn’t really know which areas were student-friendly. We just stuck with what others recommended.
+
+14:02:37 If there had been a tool where you could compare suburbs, like price range, commute to campus, even things like cultural diversity or safety ratings, would that have helped?
+
+14:02:49 For sure. Especially something made by or for students. The information online is kind of scattered, and you don’t know what to trust. Also, I think we all look for different things. I would’ve loved to know, for example, where other Indonesian or Muslim students tend to live, just for that bit of community comfort.
+
+14:03:09 That’s such a good point. What else do you wish you could’ve known before choosing?
+
+14:03:14 Maybe if the area had halal groceries nearby, or how noisy it is. We picked a spot right next to a tram line, which we thought was great, but now we get woken up every morning by that metal screech.
+
+
+14:03:35 That’s rough. Let’s talk about studying now. When you start a new subject, how do you usually find people to study with, or do you?
+
+14:03:44 Honestly, not really. I usually just focus on my own notes. Unless it’s a group assignment, I don’t really talk much in class. It’s not that I don’t want to, I think I’m just unsure how to start the conversation, especially with people I don’t know.
+
+14:04:01 Would it help if there was a tool or feature that lets you connect with others in your class who also want to study together?
+
+14:04:10 I think so, yeah. But I wouldn’t want something too formal. Maybe something more like "Hey, these 3 other people are also doing MGMT90140 and prefer quiet study, want to form a group?” That would feel more natural.
+
+14:04:25 Right, kind of like a soft introduction.
+
+14:04:28 Exactly. And maybe also let people choose what kind of study they’re into. Like some people love chatting through topic, others just want to sit together and work in silence.
+
+14:04:39 Makes sense. Do you ever go to public study spaces or cafes?
+
+14:04:44 Yeah! I like Baillieu Library a lot. I usually go early in the morning if I want to grab a quiet spot.
+
+14:04:59 Would a feature that shows available or popular study spots, maybe even shows how full they are, be useful?
+
+14:05:07 Yes, that would be amazing. Especially during SWOTVAC. I’ve done the thing where I go to four libraries and end up just going home.
+
+14:05:20 So switching gears again, how do you choose your subjects? Do you plan based on career goals or more on interest and requirements?
+
+14:05:29 A mix. I follow the core structure, but for electives, it’s mostly vibes. Like I Google subject names or look for reviews. Some people post on Reddit, which helps. But I don’t really know how each subject maps to a real job.
+
+14:05:45 What about a tool that maps out career paths, shows subject reviews, workload estimates, and how they link to actual roles?
+
+14:05:55 That’s the dream. Especially if it includes feedback from students. Like one subject sounded cool but turned out to be mostly group presentations and zero actual skills. So yeah, real insights would help.
+
+14:06:10 How far ahead have you planned your course?
+
+14:06:13 Not far. Just this semester. I feel like I’m still figuring out what I want. Maybe that’s normal?
+
+14:06:21 Totally. You’re not alone there.
+
+14:06:25 When using any student app or platform, what usually makes you trust or like it?
+
+14:06:31 Clean design. I also want to know where the data comes from. Like is it official?
+
+14:06:45 And what makes you immediately bounce?
+
+14:06:48 Pop-ups. Too many buttons. Or apps that try to gamify everything in a cringe way. I don’t want badges for logging in, just give me what I need.
+
+14:07:00 If we designed something just for international students, what should we definitely not miss?
+
+14:07:07 I’d say the feeling of being seen. Like don’t just make another student app. Understand what it’s like when English isn’t your first language, or when you miss home, or when you don’t know if you should email your tutor or not. Those little things actually matter to me.
+
+14:07:25 That’s so important. Last question if you dont mind, if you could develop any tech tool or app to help you thrive as an international student, what would it be?
+
+14:07:36 Maybe a personal guide or dashboard that combines everything. Like it shows what deadlines are coming, suggests relevant events, lets me plan my week, but also has space to journal or reflect.
+
+14:07:58 A mentor layer. I like that actually.
+
+14:08:00 Yeah, doesn’t have to be deep. Just someone saying, “Hey, how’s your week?”
+
+14:08:05 Well that brings us to the end. Thank you so much. That was incredibly helpful. Your feedback gives us so much direction for what features to prioritise.
+
+14:08:14 No worries, thanks for listening. I hope the project goes well.
+
+14:08:18 Thanks, and take care!

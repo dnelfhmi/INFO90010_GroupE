@@ -1,0 +1,121 @@
+10:00:04 Thanks again for joining me. Before we dive in, I’d like to give you a quick overview. The purpose of this research is to investigate challenges faced by international students at the University of Melbourne—things like academic pressure, social integration, and cultural adaptation. It’s just a chat. Take your time, share only what you're comfortable with. You’ll be taking part in a semi-structured interview of around 15–20 minutes, where we’ll talk about your experiences adjusting to university life, the challenges you’ve encountered
+
+10:00:14 Sure. It’s actually nice to talk about these things. I believe it's important for international students like us.
+
+10:00:18 Yeah, that’s something we’ve heard a lot. Could you start by telling me a bit about yourself?
+
+10:00:24 I’m from Kolkata, India. I’m in my first year of the Master of Data Science. I arrived last year so it’s been about six months now.
+
+10:00:36 And what has the experience been like so far?
+
+10:00:40 Honestly? Some parts were easier than I thought, like navigating the campus or figuring out trams because Melbourne has a very efficient public transportation system. But emotionally, it’s been much harder than expected.
+
+10:00:51 In what way if umm I may ask?
+
+10:00:53 It’s the constant level loneliness. You’re surrounded by people on campus, but you feel invisible. Back home, I never had to plan how to talk to someone or wonder if they would include me.
+
+10:01:08 Have you tried joining clubs or making friends through class?
+
+10:01:11 I’ve gone to events, yeah. The welcome week, some mixers. But I noticed people stick with who they know. A lot of Aussie students stay with their circles and local friends, and other international students often form groups by language or country.
+
+10:01:25 So where does that leave you?
+
+10:01:28 Floating. I have classmates I talk to during tutorials, and we message each other about assignments, but I wouldn’t call them friends yet. It’s very surface level right now.
+
+10:01:40 That can feel quite isolating. What’s helped you cope?
+
+10:01:43 Cooking. It’s small, but it grounds me. I call my mum, ask how to make something simple, and it feels like a connection to home. Also, I’ve started journaling. Just writing things down helps.
+
+10:01:58 That’s really healthy. Has the university offered any kind of emotional support that worked for you?
+
+10:02:03 I did book one session at CAPS. The therapist was kind, but I felt like I had to explain too much about where I’m from before we got to the actual issue.
+
+10:02:15 You mean cultural context?
+
+10:02:17 Exactly. Some things like guilt from leaving family behind, or feeling selfish for spending money on yourself. I think those don’t translate easily unless someone’s lived it.
+
+10:02:29 That’s a big part of the struggle, right?
+
+10:02:32 Yes. Even talking about about mental state, it’s not something we openly discuss back home, so I had to convince myself it was okay to feel this way.
+
+10:02:44 Did you feel prepared when you arrived?
+
+10:02:46 Not really. I thought I was, but there were gaps. Like, no one tells you how much laundry costs, or how to read your electricity bill, or that apartment inspections are very short and competitive.
+
+10:02:59 What about finances. Is that has been one of your sources of stress?
+
+10:03:03 Very much. I budget constantly. My rent is 280 a week, which is manageable, but any emergency like dental stuff or broken phone. These can throw everything off. I work weekends at a convenient store, but it barely covers essentials.
+
+10:03:20 Is your employer fair?
+
+10:03:22 Mostly, but I’ve had friends or know someone who were underpaid or asked to work beyond their legal hours. They don’t report it because they’re afraid of losing the job.
+
+10:03:34 Do you think the uni should do more?
+
+10:03:36 I think we need more practical support from the uni and not just info sessions. Maybe a financial advice service specifically for international students. Or someone who can walk you through your payslip and tell you if something’s off.
+
+10:03:49 Thanks for sharing your valueable input. Is it okay to move on to the next agenda?
+
+10:03:51 Yes sure
+
+10:03:53 Lets talk about safety. Have you encountered such issue?
+
+10:03:53 Once, I was walking home from the train station late and it was not even that late, maybe 9pm and group of teenagers started yelling at me from across the street. Racial stuff. I ignored them, but it stayed with me to be honest.
+
+10:04:08 I’m really sorry that happened.
+
+10:04:10 It’s okay. It wasn’t violent, just upsetting. But it changed how I move through the city. I avoid empty streets now. Always check if my train stop is well lit.
+
+10:04:21 Did you report it?
+
+10:04:23 No. I didn’t know if it would matter. They didn’t touch me or follow me. I felt like it wasn’t “serious enough.”
+
+10:04:33 But it still affected you.
+
+10:04:35 Yeah. It made me feel small and not belonging here.
+
+10:04:37 How do you think a digital tool could help students like you?
+
+10:04:40 I think it needs to feel human. Not just a database of services. Maybe something like weekly check-ins and probably not just mood tracking, but something like, did you talk to someone this week or what was one small win?
+
+10:04:55 Like a low-pressure wellness guide?
+
+10:04:57 Exactly. And maybe community threads where students anonymously share struggles. This assures that you know you’re not alone.
+
+10:05:07 What about more practical tools?
+
+10:05:09 Oh, for sure. Suburb comparisons, subject reviews, where to buy secondhand furniture. Stuff that takes hours to Google or takes you hours to scroll the Fecebook Marketplace when you first arrive.
+
+10:05:20 What’s one thing you learned throughout your first six months here?
+
+10:05:23 That doing everything yourself isn’t sustainable. I used to be proud that I never asked for help but now I think that just made it worse. I got sick for the first time here and realised I had no one nearby who could even bring me medicine.
+
+10:05:39 That sounds so hard.
+
+10:05:41 It was. That’s when I started reaching out more. Even if it’s just to say, Hey, I’m not okay today.
+
+10:05:50 Have things gotten better?
+
+10:05:52 In some ways, yes. I’ve found people I can sit quietly with. Actually, um I started playing badminton, not competitively, just to move. I’m not settled, but I’m learning how to exist here.
+
+10:06:08 That’s powerful. What does sense of belonging look like for you now?
+
+10:06:12 It’s not big. It’s when someone remembers your name. When a tutor replies kindly to your confused email. It’s in the small stuff.
+
+10:06:24 That’s such an important reminder.
+
+10:06:26 We don’t need more fancy videos about diversity. We need small moments of care.
+
+10:06:31 If you could redesign orientation for new students, what would it include?
+
+10:06:35 Hmmm maybe something like a real talk panel. Just students sharing what surprised them, what hurt, what helped. No sugar coating from the uni.
+
+10:06:45 What would you say on that panel?
+
+10:06:48 Ump I would say something like give yourself time. Melbourne doesn’t become home in one month. Or three. But one day everything will go into its place
+
+10:07:07 That’s beautiful. Thank you for sharing that.
+
+10:07:10 Thank you for asking. This felt good to actually share what I ahve in my mind.
+
+10:07:14 I hope it did. You’ve given us a lot to reflect on and what to improve collectively.

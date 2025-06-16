@@ -1,0 +1,67 @@
+10:00:13 Thanks again for joining. Just to recap, this is part of our research project at UniMelb where we’re looking at how international students adjust socially, academically, and practically. We’re hoping to identify what kind of digital solutions might actually be helpful. The goal today is just to hear about your own experience and get your thoughts on a few things. Sound good?
+
+10:00:21 Yeah yeah, sure.
+
+10:00:23 Awesome. Hmm let’s start with a quick intro. Can you tell me what you’re studying, where you’re from, and how long you’ve been here in Melbourne?
+
+10:00:30 I’m a final year Master of Information Technology student at the University of Melbourne. I’m originally from Malaysia.
+
+10:00:42 Great. And what made you choose the University of Melbourne for your studies?
+
+10:00:46 I chose Unimelb over other universities in Melbourne because it’s the most prestigious university in Australia. It also has top notch faculty members and excellent research and learning facilities, especially for learning state of the art technologies. I believe those are the most important factors when deciding where to pursue your studies.
+
+10:01:10 Nice! thanks for sharing that. Now let’s talk about your general experience so far. How would you describe life as an international student here?
+
+10:01:17 Honestly, it’s been a bit underwhelming. I did my bachelor’s in Electrical and Computer Engineering at Ohio State University in the US, and the campus culture there felt much more connected. In the US, they have fraternities, sororities, and very active clubs that really build camaraderie. People willingly join and actively participate. I feel like here in Australia, that kind of experience is quite rare.
+
+10:01:48 Can you give an example of that from your time in the US?
+
+10:01:51 Sure. Back at Ohio State, I was part of an electronics club. Every fortnight, they would run workshops on how to build simple electronics with easy to access parts. It’s not that those kinds of events don’t happen here, but it’s the way they managed it how they stayed in touch with members and kept things engaging that really made it special.
+
+10:02:17 And how has your actual experience here compared with your expectations before arriving?
+
+10:02:21 Even though I find the experience underwhelming, it’s still exceeded my expectations overall. Every place has its strengths and weaknesses. University life may not be as vibrant here, but the food scene is great. You can find Malaysian food so easily in Melbourne, which wasn’t the case in the US.
+
+10:02:44 Anything else that surprised you?
+
+10:02:46 Yeah, I thought the Australian accent would be really different from what I was used to, but it’s actually pretty easy to understand. Maybe it’s harder in rural areas, but in Melbourne, I’ve had no issues.
+
+10:03:00 Is there anything you wish you’d known before arriving?
+
+10:03:03 I really wish people had told me how difficult it is to rent a house as an international student in Melbourne. I know housing prices are high, but it was still so timeconsuming. It took me like two weeks to finally find a place. I wasn’t expecting that. But looking back, it was still a good learning experience, I guess.
+
+10:03:27 Since arriving, what practical or social challenges have stood out for you?
+
+10:03:31 Several. Practically, finding a place to rent was tough. Then there’s the financial pressure living costs keep rising. And adjusting to the Australian education system was harder than expected. It’s quite different from the US graduate system. Socially, it’s been difficult to make local friends or fit into the culture. Maybe that’s partly on me for not being proactive. But my top priority is doing well in my studies, even if that means sacrificing the social side of things.
+
+10:04:04 How have these challenges affected your daily life or studies?
+
+10:04:07 The rental issue was the most disruptive. I was in temporary housing that was about to raise the rent, so I was racing to find a new place. At the same time, I had assignments due. I had to skip classes just to go to inspections—and even then, there was no guarantee. One house had like 20 people show up. It felt like gambling.
+
+10:04:32 How did you manage the rental stress?
+
+10:04:35 I made an Excel sheet to track my applications and compare features. I also wrote a custom cover letter and got a Letter of Good Conduct from my previous employer. I think that gave me an edge.
+
+10:04:49 What tools or services did you use?
+
+10:04:51 Mainly the Realestate.au and Domain.au apps. They’re solid. The filtering helps a lot since I had specific preferences. But some listings looked shady. I really wish there was a way to rate individual agents. Some didn’t even show up to viewings. Others canceled while I was on my way. A trusted online viewing option would be amazing.
+
+10:05:19 Did you use any university provided tools or services?
+
+10:05:21 Yes, I used Unimelb’s scheduling platform for my timetable, and the BUPA system to upgrade my OSHC. I also watched YouTube videos to pick up Australian slang and accents.
+
+10:05:35 What was your experience like with those tools?
+
+10:05:37 The BUPA app was smooth and easy. YouTube was helpful, though the unskippable ads were annoying. The scheduling platform, though—that could really be improved. Scheduling platform crashes… poor mobile interface. It’s not user-friendly, especially on mobile.
+
+10:06:01 Thinking about the challenges you’ve faced, how do you see technology helping international students?
+
+10:06:04 I definitely think technology can help. I already use YouTube, and that’s just one example. Tech makes tedious tasks easier and gives you more time for other things. Like being able to book an appointment online instead of going in person. But we also need to be cautious—we shouldn’t over-rely on tech. And tools must be built on trustworthy, unbiased sources. Otherwise, scams and misinformation are a real risk. But yes, I think tech is a must.
+
+10:06:36 Is there a feature or tool you wish existed?
+
+10:06:38 Definitely a rating system for real estate agents. That would have saved me so much stress.
+
+10:06:45 And what makes a tool valuable to students like you?
+
+10:06:47 It has to be easy to use, intuitive, comprehensive, free or at least really cheap and designed with empathy for the user.

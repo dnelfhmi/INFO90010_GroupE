@@ -1,0 +1,81 @@
+10:00:10 I will start the recording now.
+10:00:14 Alright.
+
+10:00:18 Thank you again for being here. Just a quick reminder, this interview is part of a research project at the University of Melbourne where we are exploring how international students experience academic, social, and housing challenges, and how we can support them better using digital tools. Feel free to share anything that comes to mind. There are no right or wrong answers.
+
+10:00:38 Sure, happy to help.
+
+10:00:41 Great. Let us start with a bit about you, where you are from, your course, and how long you have been here.
+
+10:00:48 I am from Bangalore, India. I came to Melbourne in early 2023. I am doing a Master of Information Systems, and this is my third semester. I had been working in IT for about five years before I started this program, so I came here with a bit more life experience, I suppose.
+
+10:01:05 Thanks for sharing. Where are you currently staying?
+
+10:01:08 I live in a small studio in North Melbourne. I chose it because it is close enough to walk to campus, and I wanted a quiet space where I could focus. The rent is a little pricy, but I manage by working part time.
+
+10:01:21 What was your experience like when you first arrived and were looking for a place to live?
+
+10:01:26 It was stressful, especially doing it from overseas. I had no idea which suburbs were better for students or if they were safe. I relied a lot on YouTube walkthroughs and a few blogs. I almost got tricked by a fake listing too thankfully I caught it in time.
+
+10:01:42 If you had access to a platform that showed suburb rent ranges, cultural diversity, commute times to campus, and maybe even community reviews, do you think that would have helped?
+
+10:01:54 Definitely. Especially if it came from other students. I would have loved to see something like, This percentage of students in your course live in this area or this suburb is close to Indian grocery stores. That would make it easy to decide. Even now, I sometimes wonder if I picked the right place.
+
+10:02:15 Let us move into academics. When you begin a new subject, how do you approach studyingdo you work with classmates or mostly on your own?
+
+10:02:22 Mostly on my own. I have a few friends I exchange notes with, but we all have different routines. I usually study early mornings, which not many students do. But yes, during group assignments we connect more.
+
+10:02:37 We are working on a feature that would let students find others from their subject based on study habits or even shared preferences for example, people who like to review lecture slides together or prefer silent group study in the library. Would that be something you would use?
+
+10:02:52 Actually yes, that sounds quite useful. Even if it just helped form small peer groups for a subject, make it less awkward to reach out. Sometimes I hesitate to message someone in the LMS because I am not sure if they would be okay to collaboration.
+
+10:03:10 Would you prefer the feature to make direct matches, or just help you discover people who are open to study?
+
+10:03:16 I would prefer to browse. I think letting users see who else is open and making the first move when they are ready feels less intrusive. Kind of like a study mode on status.
+
+10:03:32 Do you often study in shared spaces?
+
+10:03:35 I usually go to the the library in the evening. I avoid peak times because it gets crowded. Sometimes I have trouble finding a seat, especially before exams.
+
+10:03:49 Would a live map that shows which study spaces are currently busy or quiet help?
+
+10:03:55 Oh, yeah. Even a simple indicator would help. I have wasted a lot of time walking between buildings. Also, if it could suggest different places nearby, that would be nice.
+
+10:04:10 Let us talk about subject selection. How do you usually decide which units to take?
+
+10:04:15 I read the handbook and try to match subjects to job skills. But the descriptions can be vague, and it is hard to know what the subject is like in practice. I also ask seniors and check unofficial Facebook groups.
+
+10:04:30 Would a feature that connects subjects to potential career paths, shows real student reviews, and includes workload estimates be useful to you?
+
+10:04:39 Yes, very much. Especially the career link. Sometimes I pick a subject because it sounds interesting, but I later realise it doesn't align with what recruiters are looking for. If the planner could say, People who studied this subject often work in data roles, that would really help focus my electives.
+
+
+10:05:00 When it comes to digital platforms for students, what makes you trust or enjoy using them?
+
+10:05:05 Simple and clear. I don't want too many features competing for attention. It should load quickly and show me only what is relevant. I also trust platforms more if they show who built it and whether the data is reliable.
+
+10:05:20 And what would make you stop using one?
+
+10:05:23 If there's too much going on the screen. Or if it tries to be too flashy. Also, if the notifications feel like spam, I uninstall.
+
+10:05:37 If we built a platform specifically for international students, what is one thing we must include?
+
+10:05:43 Local context I would love a section that translates common student experiences like how grading works here, or how to approach lecturers. I remember being confused by tutorialsversus lectures in my first week. These small things add up.
+
+10:06:00 That is a great point. What is one thing you wish existed that does not currently?
+
+10:06:05 A pathway recommender something that shows you if you take these subjects and join these activities, you will be on track for this type of career something like that. I think many international students are ambitious but feel lost when trying to navigate all the options here.
+
+10:06:21 That sounds very aligned with what we are trying to build. You are basically describing what we had in mind for the Smart Study Planner.
+
+10:06:28 That is nice to hear. If it works well and has good data, I would definitely use it.
+
+10:06:35 Lastly, are there any tools you have used so far that made a difference?
+
+10:06:41 Honestly, LinkedIn Learning helped me bridge a few gaps in technical skills. But nothing university specific has stood out so far. Most platforms feel disconnected from what we really need.
+
+10:06:55 That is great feedback. Thank you so much your insights have been incredibly helpful and well thought out.
+
+10:07:02 No problem. I'm glad to contribute. I think there is a lot of potential to do more for international students.
+
+10:07:13 Thanks again and all the best for your semester.
